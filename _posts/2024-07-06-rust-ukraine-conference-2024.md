@@ -6,7 +6,7 @@ categories: meetup
 ---
 This year we're going big! We're organizing a Rust Ukraine Conference 2024, and we're inviting all Rustaceans to join us in Kyiv and online on July 7, 2024 with possibility of offline hubs in other Ukrainian and European cities.
 
-In the spirit of Rust, we're going to have a diverse lineup of speakers, covering a wide range of topics from scientific computing to database and compilers development.
+In the spirit of Rust, we're going to have a diverse lineup of speakers, covering a wide range of topics.
 
 We are following the same presentation format we established in the previous years, with 20-30-minute talks and Q&A sessions. 
 
