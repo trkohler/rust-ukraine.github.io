@@ -20,6 +20,6 @@ Subscribe on our socials and stay tuned for the registration announcement!
 
 [Twitter](https://twitter.com/RustUkraine) | [Telegram](https://t.me/+K73pAc_9tD5kMTQy) | [Linkedin](https://www.linkedin.com/company/ukrainian-rust-community/)
 
-### Want to present with us?
+### Want to become a presenter?
 
 [Get familiar with how we work.](https://docs.google.com/presentation/d/1q9QQW4lmfRr3xBx3bfiNyzyXwwDanRXR/edit#slide=id.p1)
